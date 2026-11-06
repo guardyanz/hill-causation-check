@@ -1,0 +1,92 @@
+{
+  ".claude-plugin/marketplace.json": {
+    "mtime": 1793980047.814575,
+    "seen": 1793980050.134604,
+    "ast_hash": "8d48a40f1160210e4c9c01701726b67d",
+    "semantic_hash": ""
+  },
+  ".claude-plugin/plugin.json": {
+    "mtime": 1793979984.6649177,
+    "seen": 1793980050.1346135,
+    "ast_hash": "8f7065a9aa9e3016171c7ddc27c3b93a",
+    "semantic_hash": ""
+  },
+  "scripts/check_scorecard.py": {
+    "mtime": 1793980027.04508,
+    "seen": 1793980050.1346178,
+    "ast_hash": "a57202e97434469969b63295e14aa658",
+    "semantic_hash": ""
+  },
+  "tests/test_check_scorecard.py": {
+    "mtime": 1793980027.04608,
+    "seen": 1793980050.1346207,
+    "ast_hash": "21ab6690059856a544bd676cecab83a6",
+    "semantic_hash": ""
+  },
+  ".github/workflows/ci.yml": {
+    "mtime": 1793979984.6689186,
+    "seen": 1793980050.1346235,
+    "ast_hash": "03f1c36e18bfbb0e7d41954728344252",
+    "semantic_hash": ""
+  },
+  "CHANGELOG.md": {
+    "mtime": 1793980027.0470827,
+    "seen": 1793980050.1346266,
+    "ast_hash": "1431662914ccd1a22fcb339eeadbf174",
+    "semantic_hash": ""
+  },
+  "CONTRIBUTING.md": {
+    "mtime": 1793979984.670918,
+    "seen": 1793980050.1346295,
+    "ast_hash": "979d648933ad24c17914b07704abfb02",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1793979984.6689186,
+    "seen": 1793980050.1346319,
+    "ast_hash": "8337cdf448e46d7b9d3e03ff0ebf82ca",
+    "semantic_hash": ""
+  },
+  "SECURITY.md": {
+    "mtime": 1793978722.0,
+    "seen": 1793980050.1346345,
+    "ast_hash": "f0ee8c7b46e1f3e9be04795040f01f03",
+    "semantic_hash": ""
+  },
+  "SKILL.md": {
+    "mtime": 1793978644.0,
+    "seen": 1793980050.1346374,
+    "ast_hash": "45eedb03769d34b4ff7168dc6c4a022a",
+    "semantic_hash": ""
+  },
+  "examples/empty-scorecard.md": {
+    "mtime": 1793978678.0,
+    "seen": 1793980050.1346402,
+    "ast_hash": "9f35589e8a5d8391e8a8cc874eb1b0cd",
+    "semantic_hash": ""
+  },
+  "examples/observational-rr-1-3.md": {
+    "mtime": 1793978678.0,
+    "seen": 1793980050.1346426,
+    "ast_hash": "ebf15519806cd8660c663bf426ed7185",
+    "semantic_hash": ""
+  },
+  "examples/smoking-lung-cancer.md": {
+    "mtime": 1793978678.0,
+    "seen": 1793980050.1346455,
+    "ast_hash": "acc87e025711f388d2bde3c91d59bdcf",
+    "semantic_hash": ""
+  },
+  "requirements-dev.txt": {
+    "mtime": 1793979984.6669307,
+    "seen": 1793980050.1346476,
+    "ast_hash": "a4d5f4d9ab89d49fbbd690da9a6acdc9",
+    "semantic_hash": ""
+  },
+  "templates/scorecard.md": {
+    "mtime": 1793978650.0,
+    "seen": 1793980050.1346502,
+    "ast_hash": "e6b4c43e44432f9710655915922e5abf",
+    "semantic_hash": ""
+  }
+}

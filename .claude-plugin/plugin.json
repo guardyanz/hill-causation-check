@@ -1,0 +1,11 @@
+{
+  "name": "hill-causation-check",
+  "version": "1.0.0",
+  "description": "Assess whether X really causes Y using the 9 Bradford Hill viewpoints (1965). Produces a strength-of-evidence verdict with a scorecard. Judges evidence, not personal medical advice.",
+  "author": {
+    "name": "Wardiyan"
+  },
+  "repository": "https://github.com/guardyanz/hill-causation-check",
+  "license": "MIT",
+  "skills": ["./"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "hill-causation-check",
+  "description": "Bradford Hill evidence-strength assessment and scorecard validation.",
+  "owner": {
+    "name": "Wardiyan"
+  },
+  "plugins": [
+    {
+      "name": "hill-causation-check",
+      "source": "./",
+      "description": "A Bradford Hill evidence-strength skill and scorecard completeness checker."
+    }
+  ]
+}
